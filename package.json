@@ -1,6 +1,6 @@
 {
   "name": "cli-deprecate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deprecation warning utility",
   "author": "muji <noop@xpm.io>",
   "repository": {
